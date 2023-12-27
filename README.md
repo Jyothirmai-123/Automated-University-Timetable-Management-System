@@ -21,9 +21,9 @@ Login securely through admin details (For admin details you can Connect me..Here
 
 ### Admin Dashboard
 Displayed the departmental statistics, such as number of lecturers, subjects, rooms, and periods.
-### Admin Panel
-You can navigate through these
-#### 1. Faculty Management:
+  ### Admin Panel
+    You can navigate through these
+  #### 1. Faculty Management:
 Add, delete, and edit faculty information, such as faculty ID and name.
 #### 2. Course Management:
 Add, delete, and edit subject information, such as subject ID and subject title.
