@@ -61,7 +61,7 @@ You can navigate through these
 1. Install NodeJS
 2. Go to the project folder directory and open the terminal (preferably gitbash).
 3. Type "npm install" in your terminal to install the required npm dependencies and libraries.
-4. Type "nodemon app.js" to run the project
+4. Type "nodemon app.js" to run the project  
 Note: If you see everything is fine and connected in the terminal,then
 5. Finally, type "localhost:3000" in your browser
 
