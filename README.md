@@ -1,7 +1,6 @@
 ## Project Description:
 Developed a timetable management system with Node.js, Express.js, and MySQL. The system ensures the dynamic adaptation to the departmental requirements by enabling effective allotment of faculty, courses, classrooms, and periods without any collisions.
 
-
 ## Tech Stack
 #### Client: HTML, CSS
 
@@ -18,7 +17,7 @@ The database MySQL is used to store the login details, faculty details, alloted 
 
 ## Key Features:
 ### User Authentication
-Login securely through admin details (For admin details you can [Jyothirmai Vanaparthi](https://github.com/Jyothirmai-123) Connect me..Here)
+Login securely through admin details (For admin details you can Connect me..Here [Jyothirmai Vanaparthi](https://github.com/Jyothirmai-123) )
 
 ### Admin Dashboard
 Displayed the departmental statistics, such as number of lecturers, subjects, rooms, and periods.
