@@ -34,8 +34,8 @@ You can navigate through these
 #### 5. Allotment:
 * Add, delete allotment of the faculty, thorugh faculty name, subject title, day, room ID, and period ID.
 #### 6. Timetable
-- ##### Generate Timetable
- * Enabled the generation of timetables based on specified criteria, such as room ID.
++ ##### Generate Timetable
+  * Enabled the generation of timetables based on specified criteria, such as room ID.
 
 ## Screencaps
 
