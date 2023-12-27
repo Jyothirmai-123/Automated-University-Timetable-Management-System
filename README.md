@@ -21,21 +21,21 @@ Login securely through admin details (For admin details you can Connect me..Here
 
 ### Admin Dashboard
 Displayed the departmental statistics, such as number of lecturers, subjects, rooms, and periods.
-  ### Admin Panel
-    You can navigate through these
-  #### 1. Faculty Management:
-Add, delete, and edit faculty information, such as faculty ID and name.
-#### 2. Course Management:
-Add, delete, and edit subject information, such as subject ID and subject title.
-#### 3. Classroom Management:
-Add, delete, and edit room information, such as room ID, department name, and capacity.
-#### 4. Period List Management:
-Add, delete, and edit period information, including period ID, start time, and end time.
-#### 5. Allotment:
-Add, delete allotment of the faculty, thorugh faculty name, subject title, day, room ID, and period ID.
-#### 6. Timetable
-##### Generate Timetable
-Enabled the generation of timetables based on specified criteria, such as room ID.
+- ### Admin Panel
+You can navigate through these
+- #### 1. Faculty Management:
+   * Add, delete, and edit faculty information, such as faculty ID and name.
+- #### 2. Course Management:
+   * Add, delete, and edit subject information, such as subject ID and subject title.
+- #### 3. Classroom Management:
+   * Add, delete, and edit room information, such as room ID, department name, and capacity.
+- #### 4. Period List Management:
+   * Add, delete, and edit period information, including period ID, start time, and end time.
+- #### 5. Allotment:
+   * Add, delete allotment of the faculty, thorugh faculty name, subject title, day, room ID, and period ID.
+- #### 6. Timetable
+   + ##### Generate Timetable
+      *Enabled the generation of timetables based on specified criteria, such as room ID.
 
 ## Screencaps
 
